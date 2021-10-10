@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @khagendra-poudel
 - 👀 I’m interested in frontend development
-- 🌱 I’m currently learning JavaScript.
+- 🌱 I’m currently learning HTML, CSS and JS.
 - 📫 How to reach me? Contact me on facebook @khagendra.pou
 
 <!---
